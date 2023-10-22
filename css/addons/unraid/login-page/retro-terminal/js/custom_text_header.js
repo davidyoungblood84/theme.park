@@ -6,8 +6,5 @@
 // YOU MUST ESCAPE ANY SINGLE BACKSLASHES LIKE SO: \\
 
 let custom_text_header = `
-<div class="custom-text-header"> <pre> 
-
-                                                                 </pre> </div>
 `;
 document.getElementById("login").innerHTML += custom_text_header
